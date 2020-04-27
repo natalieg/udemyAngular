@@ -1,0 +1,13 @@
+input {
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+input:active {
+    background-color: grey;
+    color: white;
+}

@@ -1,0 +1,14 @@
+div {
+    background-color: rgb(197, 29, 65);
+    color: white;
+    text-align: center;
+    padding: 4px;
+}
+
+h1 {
+    margin-top: 5px;
+}
+
+p {
+    font-size: 1.2em;
+}
